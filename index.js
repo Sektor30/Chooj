@@ -1,4 +1,7 @@
-/*const btnstar = document.getElementById('btnstar');
+/*
+inicia comentario
+
+const btnstar = document.getElementById('btnstar');
 const btnregistro = document.getElementById('btnregistro');
 const btnclose = document.getElementById('btnclose');
 const container = document.querySelector('.container');
