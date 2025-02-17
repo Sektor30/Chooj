@@ -137,6 +137,10 @@ blockquote p {
     height: 5%;
 }
 
+.img-top{
+    transform: scaleX(-1)
+}
+
 footer {
     background: #1a1a1a;
     color: white;
